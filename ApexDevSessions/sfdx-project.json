@@ -3,6 +3,10 @@
     {
       "path": "force-app",
       "default": true
+    },
+    {
+      "path": "/force-app/src",
+      "default": false
     }
   ],
   "name": "ApexDevSessions",
