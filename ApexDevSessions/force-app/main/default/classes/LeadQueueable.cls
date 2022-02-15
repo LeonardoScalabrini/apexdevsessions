@@ -1,6 +1,6 @@
 public class LeadQueueable implements Queueable {
   /**
-   * Start Method Exemple
+   * Start Method Example
    * LeadQueueable leadQueuableInstance = new LeadQueueable();
    * Id jobId = System.enqueueJob(leadQueuableInstance);
    * */

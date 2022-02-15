@@ -1,6 +1,6 @@
 public class LeadBatch implements Database.Batchable<SObject> {
   /**
-   * Start Method Exemple
+   * Start Method Example
    * LeadBatch leadBatchInstance = new LeadBatch();
    * Database.executeBatch(leadBatchInstance);
    * */
