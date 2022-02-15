@@ -22,4 +22,8 @@ The `sfdx-project.json` file contains useful configuration information for your 
 - SOQL 101 Limit
 - DML Operation 150 Limit
 - CPU 10 Seconds Operation Limit
-- Limits class
+- Trigger SOQL 101 Limit
+- Trigger DML Operation 150 Limit
+- Future methods 50000 Limit
+- Batch Apex 50000000 Limit
+- Limits class Bulkfication Limits
